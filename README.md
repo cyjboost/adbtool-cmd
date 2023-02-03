@@ -1,1 +1,1 @@
-# __English is still not translated yet.__
+# __English is still not published yet.__
