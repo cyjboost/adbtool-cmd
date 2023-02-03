@@ -1,4 +1,4 @@
-### *adbtool-cmd*
+### **adbtool-cmd**
 只是一个cmd的脚本  
 English users,[click here](https://github.com/cyjboost/adbtool-cmd/English)     
 ### 使用      
